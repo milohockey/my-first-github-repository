@@ -1,2 +1,4 @@
 # my-first-github-repository
-Temporary repository for Udemy Git training-
+Temporary repository for Udemy Git training
+
+README.md file was just edited manually.
