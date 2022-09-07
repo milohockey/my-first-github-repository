@@ -3,4 +3,4 @@ Temporary repository for Udemy Git training
 
 README.md file was just edited manually.
 
-I updated this locally again.
+This is the file that left conflict resolution-
